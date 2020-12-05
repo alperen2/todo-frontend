@@ -1,0 +1,6 @@
+@import '~antd/dist/antd.css';
+
+.completedTask {
+  text-decoration: line-through;
+}
+
